@@ -1,4 +1,5 @@
 # Wangy-Wangy: Judi Waifu Gacha Gacor
+https://goldsteinsilalahi-sketch.github.io/tugas-slicing-/
 
 Situs web simulasi gacha berbasis HTML5, CSS3, dan JavaScript Vanilla dengan tema estetika Ombre Pink. Web ini menyajikan fitur roda keberuntungan (spin wheel) interaktif untuk mendapatkan waifu berdasarkan probabilitas rate tertentu.
 
